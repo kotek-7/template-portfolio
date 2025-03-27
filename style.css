@@ -1,0 +1,18 @@
+body {
+  font-family: "Noto Sans JP", sans-serif; /* フォント */
+  padding: 20px; /* 余白 */
+}
+
+.hometown-pic {
+  width: auto; /* 画像の幅 (autoにすることで画像の縦横比にあわせる) */
+  height: 200px; /* 画像の高さ */
+}
+
+.profile {
+  margin-top: 40px; /* 上の余白 */
+}
+
+.headline {
+  font-size: 1.2rem; /* フォントサイズ */
+  font-weight: bold; /* 太字 */
+}
